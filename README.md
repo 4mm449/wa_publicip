@@ -5,6 +5,13 @@ Leak Public IP from victim caller.
 
 This program is for Educational purpose ONLY. Do not use it without permission. I am not responsible for any of your actions. Use this tool with caution.
 
+## Prerequisites
+```
+1. Need to have a Wireless adapter that supports monitor mode (Prefer Alfa) 
+
+2. Need to have a Linux machine and will only work from a linux terminal (Prefer Kali Linux)
+```
+
 ## Attack the victim
 
 Install hotspotd with these steps:
